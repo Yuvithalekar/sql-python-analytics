@@ -1,0 +1,73 @@
+BUSINESS SALES ANALYTICS REPORT
+==================================================
+
+Total Sales: 45357054.45
+Average Sales: 377.98
+Total Transactions: 120000
+Average Discount: 5.5
+
+TOP CATEGORY PERFORMANCE
+----------------------------------------
+category
+Beauty         6355718.23
+Books          6005237.69
+Sports         5863370.76
+Electronics    5859686.69
+Home           5655562.80
+Toys           5557562.19
+Groceries      5431536.64
+Clothing       4628379.45
+Name: sales_amount, dtype: float64
+
+REGIONAL SALES PERFORMANCE
+----------------------------------------
+region
+Central    9237924.11
+West       9106911.70
+North      9049438.11
+South      8991262.89
+East       8971517.64
+Name: sales_amount, dtype: float64
+
+TOP PRODUCTS
+----------------------------------------
+product_name
+Bread              2073770.79
+Lipstick           2063017.35
+Textbook           1737817.74
+Smartphone         1631875.41
+Water Bottle       1605400.95
+Storage Box        1509331.33
+Notebook           1478248.61
+Toy Car            1423744.56
+Building Blocks    1394417.17
+Moisturizer        1348009.02
+Name: sales_amount, dtype: float64
+
+CUSTOMER SEGMENT ANALYSIS
+----------------------------------------
+customer_segment
+Loyal        379.613555
+New          377.478568
+Returning    378.923832
+VIP          375.898101
+Name: sales_amount, dtype: float64
+
+PAYMENT METHOD ANALYSIS
+----------------------------------------
+payment_method
+Cash           9134699.83
+Credit Card    9127113.77
+PayPal         9033551.89
+Gift Card      9032802.90
+Debit Card     9028886.06
+Name: sales_amount, dtype: float64
+
+SALES CHANNEL ANALYSIS
+----------------------------------------
+sales_channel
+In-Store      15273226.27
+Mobile App    15065983.38
+Online        15017844.80
+Name: sales_amount, dtype: float64
+
