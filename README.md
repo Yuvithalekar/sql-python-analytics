@@ -14,3 +14,12 @@
 - Business Insights
 - Data Visualization
 - Correlation Analysis
+
+## Streamlit Dashboard
+
+Features:
+- Interactive filters
+- KPI cards
+- Sales visualizations
+- Product analysis
+- Correlation heatmap
